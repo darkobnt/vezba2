@@ -1,2 +1,2 @@
-# vežbe
+# javascript
 
